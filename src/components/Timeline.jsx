@@ -138,7 +138,7 @@ function Timeline() {
                                     <br />
                                     18<sup>th</sup> Zil-Hajjah, 1444 Hijri,
                                     <br />
-                                    Time: 02:30 PM.
+                                    Time: 11:30 AM.
                                 </p>
 
                                 <h2>Venue:</h2>

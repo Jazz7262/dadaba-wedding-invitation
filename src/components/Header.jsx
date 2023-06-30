@@ -14,13 +14,13 @@ function Header() {
                 Merciful
             </h3>
 
-            <h4 className="mt-4">
+            {/* <h4 className="mt-4">
                 Under the spirutual patronage of:
                 <br />
                 Qutub-e-Adoni Qutub-ud-Dawaayir Ashraf-ul-Ma'aasir
                 Sayyid-e-Barhaq Hazrath Sayyid Shah Taher Quadri, Al-Hamavi
                 Rahamatullaahi Alaih, Adoni.
-            </h4>
+            </h4> */}
 
             {/* <h4 className="mt-4">
                 Under the spirutual patronage of:

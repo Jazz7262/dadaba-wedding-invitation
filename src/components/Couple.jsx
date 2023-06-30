@@ -27,7 +27,6 @@ function Couple() {
                                     data-target="#carouselIndicators"
                                     data-slide-to="1"
                                 ></li>
-                                
                             </ol>
                             <div className="carousel-inner">
                                 <div className="carousel-item active">
@@ -48,7 +47,6 @@ function Couple() {
                                         />
                                     </div>
                                 </div>
-                                
                             </div>
                             <a
                                 className="carousel-control-prev"
@@ -82,7 +80,7 @@ function Couple() {
                         </div>
                         <div className="info groom-info">
                             <h3>
-                                Khanbu Mehboob Basha Urf Dadaba 
+                                Khanbu Mehboob Basha
                                 {/* <sub>Silver Smith,</sub> */}
                             </h3>
                             {/* <p className="mt-2 mt-lg-3">
@@ -91,7 +89,7 @@ function Couple() {
                             <p className="mt-2 mt-lg-3">
                                 Grand S/O Janab{" "}
                                 <strong>
-                                    Khanbu Mehboob Sahab(Aalim -e- Deen)(Late)
+                                    Khanbu Mehboob Sahab(Aleem)(Late)
                                 </strong>
                             </p>
                             {/* <p className="mt-1 mt-lg-2">
@@ -132,7 +130,6 @@ function Couple() {
                                     data-target="#bride-carousel-indicators"
                                     data-slide-to="1"
                                 ></li>
-                               
                             </ol>
                             <div className="carousel-inner">
                                 <div className="carousel-item active">
@@ -153,7 +150,6 @@ function Couple() {
                                         />
                                     </div>
                                 </div>
-                                
                             </div>
                             <a
                                 className="carousel-control-prev"
@@ -197,10 +193,10 @@ function Couple() {
                                 D/O Janab{" "}
                                 <strong>Moulana Mohammed Ali Sahab,</strong>
                             </p>
-                            {/* <p className="mt-1 mt-lg-2">
-                                D/O Janab <strong>S. Abdul Malik Sahab,</strong>
-                            </p>
                             <p className="mt-1 mt-lg-2">
+                                Retd. Agriculture Depatment Officer,
+                            </p>
+                            {/* <p className="mt-1 mt-lg-2">
                                 H.No.: 17-110/8, Kishan Singh Street,
                             </p> */}
                             <p className="mt-1 mt-lg-2">Adoni.</p>

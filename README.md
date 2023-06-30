@@ -13,4 +13,4 @@ This project is made for my Business Idea [Ziya Invites](https://ziya-invites.ne
 
 # This is an Wedding Ceremony Invitation Card
 
-Digital Invitation Card for Dadaba's Wedding Ceremony developed by Ziya Invites
+Digital Invitation Card for Mehboob's Wedding Ceremony developed by Ziya Invites
