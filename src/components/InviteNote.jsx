@@ -6,9 +6,13 @@ function InviteNote() {
         <section id="invite-note">
             <div className="from">
                 <h5>An Invitation from:</h5>
-                <h2>Mrs. Al-Haaj Khanbu Abdul Aleem Sahab(Late)</h2>
+                <h2>Mrs. Al-Haaj Khanbu Abdul Aleem Sahab</h2>
 
-                <h5 className="address">Retd. Teacher and Pesh Imam</h5>
+                <h5 className="address">
+                    W/O Al-Haaj Khanbu Abdul Aleem Sahab,
+                    <br />
+                    Retd. Teacher and Pesh Imam
+                </h5>
                 <h5 className="address mb-3">
                     H.No.: 1/564, Bharpet,
                     <br /> Khooni Mohallah, Adoni,
